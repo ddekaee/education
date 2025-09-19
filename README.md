@@ -1,8 +1,8 @@
 # 📚 Education Repository
 
-[![GitHub stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge)](https://github.com/username/repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/username/repo?style=for-the-badge)](https://github.com/username/repo/network/members)
-[![GitHub license](https://img.shields.io/github/license/username/repo?style=for-the-badge)](./LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge)](https://github.com/ddekaee/education/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/username/repo?style=for-the-badge)](https://github.com/ddekaee/education/network/members)
+[![GitHub license](https://img.shields.io/github/license/ddekaee/repo?style=for-the-badge)](./LICENSE)
 
 > Tempat belajar bareng dengan materi yang **terstruktur**, **gratis**, dan **open-source**.  
 > Mulai dari source code, ebook, hingga modul hasil live webinar yang bisa dipelajari kembali. 🚀  
