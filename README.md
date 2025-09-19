@@ -1,12 +1,13 @@
 # 📚 Education Repository
 
-[![GitHub stars](https://img.shields.io/github/stars/ddekaee/education?style=for-the-badge)](https://github.com/ddekaee/education/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ddekaee/education?style=for-the-badge)](https://github.com/ddekaee/education/network/members)
-[![GitHub license](https://img.shields.io/github/license/ddekaee/education?style=for-the-badge)](./LICENSE)
-[![Join WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Follow%20Channel-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6A4uc4yltXMbefSK07)
+[![GitHub stars](https://img.shields.io/github/stars/ddekaee/education?style=for-the-badge&color=black)](https://github.com/ddekaee/education/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ddekaee/education?style=for-the-badge&color=black)](https://github.com/ddekaee/education/network/members)
+[![GitHub license](https://img.shields.io/github/license/ddekaee/education?style=for-the-badge&color=black)](./LICENSE)
+[![Join WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Follow%20Channel-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb6A4uc4yltXMbefSK07)
 
-> Tempat belajar bareng dengan materi yang **terstruktur**, **gratis**, dan **open-source**.  
-> Mulai dari source code, ebook, hingga modul hasil live webinar yang bisa dipelajari kembali. 🚀  
+> Perpustakaan digital yang **terstruktur**, dan **open-source**.  
+> Hadir dengan source code, ebook, dan modul eksklusif hasil webinar.  
+> Dibangun untuk mereka yang menghargai ilmu & nilai tinggi. 🏛️  
 
 ---
 
@@ -49,7 +50,7 @@ education/
 - **Module** → Hanya rilis setelah webinar selesai  
 
 ℹ️ Untuk info perilisan **code, webinar, event, atau ebook**, silakan **follow channel WhatsApp** berikut:  
-[![Join WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Follow%20Channel-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6A4uc4yltXMbefSK07)
+[![Join WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Follow%20Channel-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb6A4uc4yltXMbefSK07)
 
 ---
 
@@ -71,10 +72,13 @@ education/
 
 ## 🎨 Design Concept
 
-Struktur repo ini ibarat **perpustakaan digital**:  
+Struktur repo ini ibarat **perpustakaan old money digital**:  
 ```
-📺 Webinar → 📘 Modul → 📚 Ebook → 💻 Code
+🏛️ Webinar Eksklusif → 📘 Modul → 📚 Ebook → 💻 Code
 ```
+
+Tone & desain: **maskulin, elegan, dan berwibawa.**  
+Hitam, putih, abu-abu, dengan sedikit hijau gelap untuk aksen (ala old money).  
 
 ---
 
@@ -93,4 +97,4 @@ atau langsung ke: [CC BY 4.0 Legalcode](https://creativecommons.org/licenses/by/
 
 ---
 
-Made with ❤️ by **Arya Deka Alhadid**
+Made with 🖤 & intellect by **Arya Deka Alhadid**
