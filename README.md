@@ -68,18 +68,6 @@ education/
 
 ---
 
-## 🎨 Design Concept
-
-Struktur repo ini ibarat **perpustakaan old money digital**:  
-```
-🏛️ Webinar Eksklusif → 📘 Modul → 📚 Ebook → 💻 Code
-```
-
-Tone & desain: **maskulin, elegan, dan berwibawa.**  
-Hitam, putih, abu-abu, dengan sedikit hijau gelap untuk aksen (ala old money).  
-
----
-
 ## 👤 Author
 
 Created & Maintained by **[@ddekaee](https://github.com/ddekaee)** ✨  
