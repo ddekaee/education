@@ -1,0 +1,92 @@
+SPDX-License-Identifier: MIT OR CC-BY-4.0
+
+Copyright (c) 2025 Arya Deka Al-Hadid
+
+This work is offered under a dual-license. You may choose to use, redistribute,
+and/or modify this work under the terms of **either**:
+
+  * The MIT License (permissive software license), OR
+  * Creative Commons Attribution 4.0 International (CC BY 4.0) (attribution-required license)
+
+Choose ONE of the above licenses and comply with its terms when using or
+redistributing this work or any derivative works.
+
+===============================================================
+PART A — THE MIT LICENSE
+===============================================================
+
+MIT License
+
+Copyright (c) 2025 Arya Deka Al-Hadid
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+===============================================================
+PART B — CREATIVE COMMONS ATTRIBUTION 4.0 INTERNATIONAL (CC BY 4.0)
+===============================================================
+
+You may instead choose to use this work under the terms of the Creative Commons
+Attribution 4.0 International License (CC BY 4.0). Under CC BY 4.0 you are free to:
+
+  * Share — copy and redistribute the material in any medium or format
+  * Adapt — remix, transform, and build upon the material for any purpose,
+    even commercially.
+
+Under the following terms:
+
+  * **Attribution** — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any reasonable
+    manner, but not in any way that suggests the licensor endorses you or your
+    use.
+  * No additional restrictions — You may not apply legal terms or technological
+    measures that legally restrict others from doing anything the license permits.
+
+Full legal code and human-readable summary of CC BY 4.0 are available at:
+https://creativecommons.org/licenses/by/4.0/
+
+===============================================================
+NOTES AND GUIDANCE
+===============================================================
+
+1. **How this dual-license works:**
+   - Downstream users MAY CHOOSE EITHER license (MIT OR CC BY 4.0) and must
+     follow the terms of the chosen license.
+   - You DO NOT have to comply with *both* licenses — pick one.
+
+2. **Why use dual-license "MIT OR CC BY 4.0":**
+   - MIT is simpler and more permissive (common for software/code).
+   - CC BY 4.0 is more typical for creative works, text, e-books, and other
+     content where explicit attribution is desired.
+   - Giving both lets developers choose the permissiveness they need.
+
+3. **Attribution examples (when using CC BY 4.0):**
+   - Short inline attribution (e.g., README or footer):  
+     `© 2025 Arya Deka Al-Hadid — Licensed under MIT OR CC BY 4.0`
+   - Full recommended attribution block:  
+     ```
+     Title: [Judul Karya]
+     Author: Arya Deka Al-Hadid
+     Copyright: © 2025 Arya Deka Al-Hadid
+     License: CC BY 4.0 (or MIT — choose one)
+     License URL: https://creativecommons.org/licenses/by/4.0/
+     ```
+
+===============================================================
+END OF LICENSE
+===============================================================
