@@ -24,16 +24,14 @@ education/
 │
 ├── ebook/                  # Bisa rilis kapan saja
 │   ├── design/
-│   ├── growth/
-│   ├── self/
+│   ├── growthself/
 │   ├── finance/
 │   ├── technology/
 │   └── global-decode/
 │
 ├── module/                 # Hanya rilis setelah webinar selesai
 │   ├── design/
-│   ├── growth/
-│   ├── self/
+│   ├── growthself/
 │   ├── finance/
 │   ├── technology/
 │   └── global-decode/
